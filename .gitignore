@@ -1,1 +1,13 @@
 project0/
+
+# ROS2 / colcon build artifacts
+LAB0/build/
+LAB0/install/
+LAB0/log/
+
+# Python artifacts
+**/__pycache__/
+**/*.pyc
+
+# Egg-info / packaging artifacts
+**/*.egg-info/
